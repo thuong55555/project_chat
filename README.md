@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Phát triển bởi Đinh Văn Thương</title>
 </head>
 <body style="background: linear-gradient(135deg, #1e3c72, #2a5298); font-family: Arial, sans-serif; color: white; text-align: center; padding: 20px;">
     <div style="max-width: 800px; margin: auto; background: rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);">
@@ -17,7 +16,7 @@
             <li style="font-size: 16px; margin: 5px 0;">✔ Giao diện thân thiện, dễ sử dụng</li>
         </ul>
         <div style="margin-top: 20px; font-size: 14px; opacity: 0.8;">
-            <p>📌 Dự án mã nguồn mở - Được phát triển bởi [Tên Của Bạn]</p>
+            <p>📌 Dự án mã nguồn mở - Được phát triển bởi Đinh Văn Thương</p>
         </div>
     </div>
 </body>
